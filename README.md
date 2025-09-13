@@ -3,6 +3,11 @@ Server: Express + Sequelize (Postgres)
 Client: React (minimal)
 
 How to run:
+FullStack Store Ratings App
+Setup:
+1. cd server && npm install
+2. cd client && npm install
+
 1. Set up a PostgreSQL database and update server/.env.example (copy to .env).
 2. Install server deps: cd server && npm install
 3. Install client deps: cd client && npm install
