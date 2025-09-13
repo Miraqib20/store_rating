@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.cf111db3.css","mappings":"AAAA,KAAO,4BAAgC,CACvC,MAAqC,aAAa,CAA5B,YAAa,CAA3B,WAA4C,CACpD,OAAS,UAAa","sources":["styles.css"],"sourcesContent":["body { font-family: Arial, sans-serif; }\ninput { padding: 8px; margin: 6px 0; display:block; }\nbutton { margin: 4px; }\n"],"names":[],"sourceRoot":""}
